@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dedaenos
 - 👀 I’m interested in Kotlin
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ... nope
+- 💞️ I’m looking to collaborate on Kotlin or Java
+- 📫 How to reach me ... on twitter for the moment
 
 <!---
 Dedaenos/Dedaenos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

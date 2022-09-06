@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Kotlin or Java
 - 📫 How to reach me ... on twitter for the moment
+- 🇲🇫 Speak French and write 🇺🇲 with (deepl and reverso because my English is at a beginner level)
 
 <!---
 Dedaenos/Dedaenos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dedaenos
-- 👀 I’m interested in idk
-- 🌱 I’m currently learning html/css/javascript
+- 👀 I’m interested in Kotlin
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ... nope
 

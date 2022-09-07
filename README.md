@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dedaenos
-- 👀 I’m interested in Kotlin
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Kotlin or Java
+- 👀 I’m interested in Python, Django and Scripting
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ... on twitter for the moment
 - 🇲🇫 Speak French and write 🇺🇲 with (deepl and reverso because my English is at a beginner level)
 

@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Dedaenos
-- 👀 I’m interested in Python, Django and Scripting
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in Assembly, C and C++
+- 🌱 I’m currently learning Assembly
+- 💞️ I’m looking to collaborate on Assembly and C/C++
 - 📫 How to reach me ... on twitter for the moment
-- 🇲🇫 Speak French and write 🇺🇲 with (deepl and reverso because my English is at a beginner level)
+- 🇲🇫 Speak French and write 🇺🇲 with (deepl and reverso because my English is terrible)
 
 <!---
 Dedaenos/Dedaenos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

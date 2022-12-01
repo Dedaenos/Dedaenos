@@ -20,6 +20,7 @@ RoadMap on Dyma :
   - React : 70h
   - NodeJS : 54h
   - MongoDB : 19h
+
 Total : 257h
 Optionnal :
   - Linux 21h

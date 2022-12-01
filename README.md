@@ -9,3 +9,18 @@
 Dedaenos/Dedaenos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+RoadMap on Dyma :
+
+  - HTML/CSS : 27h -> In Progress
+  - JavaScript : 49h
+  - Algorithms and data structure : 15h
+  - GIT : 12h
+  - Typescript : 11h
+  - React : 70h
+  - NodeJS : 54h
+  - MongoDB : 19h
+Total : 257h
+Optionnal :
+  - Linux 21h
+  - Docker 18h
